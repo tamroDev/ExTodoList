@@ -1,0 +1,191 @@
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\appsettings.Development.json
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\appsettings.json
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.exe
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.deps.json
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.json
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.dev.json
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\TodoList.pdb
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.AssemblyReference.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfoInputs.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfo.cs
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.CoreCompileInputs.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cs
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.sourcelink.json
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.RazorTargetAssemblyInfo.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\scopedcss\bundle\TodoList.styles.css
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Pack.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.TodoList.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.build.TodoList.props
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TodoList.props
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TodoList.props
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.Up2Date
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.dll
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\refint\TodoList.dll
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.pdb
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\TodoList.genruntimeconfig.cache
+E:\.NET\TodoList API\TodoList\TodoList\obj\Debug\net5.0\ref\TodoList.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Humanizer.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.NET\TodoList API\TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\appsettings.Development.json
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\appsettings.json
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.exe
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.deps.json
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.json
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.dev.json
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\TodoList.pdb
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Humanizer.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.NET\Ex TodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.AssemblyReference.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfoInputs.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfo.cs
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.CoreCompileInputs.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cs
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.RazorTargetAssemblyInfo.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\scopedcss\bundle\TodoList.styles.css
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Pack.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.TodoList.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.build.TodoList.props
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TodoList.props
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TodoList.props
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.Up2Date
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.dll
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\refint\TodoList.dll
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.pdb
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.genruntimeconfig.cache
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\ref\TodoList.dll
+E:\.NET\Ex TodoList\TodoList\obj\Debug\net5.0\TodoList.sourcelink.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\appsettings.Development.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\appsettings.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.exe
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.deps.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.runtimeconfig.dev.json
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\TodoList.pdb
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Humanizer.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\.NET\ExTodoList\TodoList\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.AssemblyReference.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfoInputs.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.AssemblyInfo.cs
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.CoreCompileInputs.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cs
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.MvcApplicationPartsAssemblyInfo.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.RazorTargetAssemblyInfo.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\scopedcss\bundle\TodoList.styles.css
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Manifest.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\TodoList.StaticWebAssets.Pack.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.TodoList.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.build.TodoList.props
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TodoList.props
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TodoList.props
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.csproj.Up2Date
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.dll
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\refint\TodoList.dll
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.pdb
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\TodoList.genruntimeconfig.cache
+E:\.NET\ExTodoList\TodoList\obj\Debug\net5.0\ref\TodoList.dll
